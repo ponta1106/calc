@@ -1,0 +1,31 @@
+body {
+  color: #555;
+  background-color:burlywood;
+}
+
+input {
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+textarea {
+  border: none;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+button {
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#result {
+  font-size: 36px;
+}
+
+.container {
+  width: 380px;
+  margin: 100px auto;
+}
